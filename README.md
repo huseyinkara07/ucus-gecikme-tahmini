@@ -1,11 +1,11 @@
-# Uçuş Gecikmesi Tahmini — Makine Öğrenmesi Projesi
+<img width="876" height="375" alt="image" src="https://github.com/user-attachments/assets/0312e7b3-aba1-48a1-be48-947d77bf5741" /># Uçuş Gecikmesi Tahmini — Makine Öğrenmesi Projesi
 
 2013 yılında New York'un üç havaalanından (JFK, LGA, EWR) yapılan **336.776 uçuşun** verisiyle,
 bir uçuşun *kalkıştan önce* bilinebilen bilgilere dayanarak varışta **15 dakika veya daha fazla
 gecikip gecikmeyeceğini** tahmin eden bir sınıflandırma projesi.
 
 > Huawei Student Developers — Veri Bilimi ve Makine Öğrenmesi Programı, final projesi.
-> Projenin ayrıntılı anlatımı: **[Medium yazısı]([MEDIUM_LINKINIZ](https://medium.com/@huseyin.karaa007/u%C3%A7a%C4%9F%C4%B1n%C4%B1z-daha-kalkmadan-gecikece%C4%9Fini-bilebilir-miyiz-98c3366d8623))**
+> Projenin ayrıntılı anlatımı: **[Medium yazısı](https://medium.com/@huseyin.karaa007/u%C3%A7a%C4%9F%C4%B1n%C4%B1z-daha-kalkmadan-gecikece%C4%9Fini-bilebilir-miyiz-98c3366d8623)**
 
 ---
 
