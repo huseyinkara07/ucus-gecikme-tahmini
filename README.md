@@ -5,7 +5,7 @@ bir uçuşun *kalkıştan önce* bilinebilen bilgilere dayanarak varışta **15 
 gecikip gecikmeyeceğini** tahmin eden bir sınıflandırma projesi.
 
 > Huawei Student Developers — Veri Bilimi ve Makine Öğrenmesi Programı, final projesi.
-> Projenin ayrıntılı anlatımı: **[Medium yazısı](MEDIUM_LINKINIZ)**
+> Projenin ayrıntılı anlatımı: **[Medium yazısı]([MEDIUM_LINKINIZ](https://medium.com/@huseyin.karaa007/u%C3%A7a%C4%9F%C4%B1n%C4%B1z-daha-kalkmadan-gecikece%C4%9Fini-bilebilir-miyiz-98c3366d8623))**
 
 ---
 
