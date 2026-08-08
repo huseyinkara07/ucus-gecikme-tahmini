@@ -1,4 +1,4 @@
-<img width="876" height="375" alt="image" src="https://github.com/user-attachments/assets/0312e7b3-aba1-48a1-be48-947d77bf5741" /># Uçuş Gecikmesi Tahmini — Makine Öğrenmesi Projesi
+# Uçuş Gecikmesi Tahmini — Makine Öğrenmesi Projesi
 
 2013 yılında New York'un üç havaalanından (JFK, LGA, EWR) yapılan **336.776 uçuşun** verisiyle,
 bir uçuşun *kalkıştan önce* bilinebilen bilgilere dayanarak varışta **15 dakika veya daha fazla
